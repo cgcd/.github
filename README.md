@@ -1,2 +1,3 @@
 # .github
-Centre de ressources global et configuration par défaut pour l'organisation. Contient la documentation générale, les guides d'accueil et les modèles partagés.
+
+Page d'accueil publique de l'organisation GitHub du Centre gouvernemental de cyberdéfense : [profile/README.md](profile/README.md) ([English](profile/README.en.md)).
